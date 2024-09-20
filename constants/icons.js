@@ -11,8 +11,14 @@ import logout from "../assets/icons/logout.png";
 import eyeHide from "../assets/icons/eye-hide.png";
 import eye from "../assets/icons/eye.png";
 import play from "../assets/icons/play.png";
+import gallery from "../assets/icons/gallery.png";
+import fixtures from "../assets/icons/fixtures.png"
+import news from "../assets/icons/news.png"
 
 export default {
+  news,
+  fixtures,
+  gallery,
   play,
   bookmark,
   home,
